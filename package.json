@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ddkclaudio/FortniteCloneServer/issues"
   },
-  "homepage": "https://github.com/ddkclaudio/FortniteCloneServer#readme"
+  "homepage": "https://github.com/ddkclaudio/FortniteCloneServer#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
