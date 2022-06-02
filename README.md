@@ -7,7 +7,7 @@ Back-end
 - [x] Clonar o projeto do GitHub para o computador
 - [x] Inicializar o projeto com [Nodejs](https://nodejs.org/en/download/)
 - [x] Criar um servidor básico com [Express](https://expressjs.com/pt-br/starter/hello-world.html)
-- [ ] Estruturar o servidor no formato MVC
+- [ ] Estruturar o servidor no formato MRC
 - [ ] Configurar [Dockerfile](https://docs.docker.com/desktop/windows/install/) & docker-compose
 - [ ] Conectar-se com Dynamodb [Workbench](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.settingup.html)
 - [ ] Configurar [Prettier](https://prettier.io/docs/en/install.html)
