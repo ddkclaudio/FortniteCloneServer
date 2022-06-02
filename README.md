@@ -23,7 +23,13 @@ Back-end
 
 Front-end
 
-- [ ] Criar conta no GitHub
 - [ ] Criar projeto no **Fortnite Clone Site** no GitHub
 - [ ] Clonar o projeto do GitHub para o computador
 - [ ] Inicializar o projeto com [React](https://pt-br.reactjs.org/tutorial/tutorial.html) & [Boostrap](https://getbootstrap.com/docs/5.2/examples/)
+
+
+
+Dev Game
+
+- [ ] Criar uma conta na Unity3d 
+- [ ] Instalar Unity3d 
