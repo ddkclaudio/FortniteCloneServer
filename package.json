@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/ddkclaudio/FortniteCloneServer#readme",
   "dependencies": {
+    "@commitlint/cli": "^17.0.2",
+    "@commitlint/config-conventional": "^17.0.2",
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",
     "dynamoose": "^2.8.5",
@@ -31,5 +33,10 @@
   },
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
   }
 }
