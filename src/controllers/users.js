@@ -1,7 +1,7 @@
 //=============================================================
 // IMPORTS
 //=============================================================
-const User = require("../models/users");
+const User = require('../models/users');
 
 //=============================================================
 // EXPORTS CRUD
@@ -27,7 +27,7 @@ exports.signIn = async (req, res, next) => {
       // delete user.password;
       return res.json({ user });
     } else {
-      error = new Error("Usuario nao encontrado, e-mail ou senha nao conferem");
+      error = new Error('Usuario nao encontrado, e-mail ou senha nao conferem');
       error.status = 200;
       next(error);
     }

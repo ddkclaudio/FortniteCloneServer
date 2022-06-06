@@ -14,9 +14,9 @@ Back-end
 - [ ] Tratando mensagem de erro
 - [ ] Criar sign in de usuário
 - [ ] Configurar [Prettier](https://prettier.io/docs/en/install.html)
-- [ ] Configurar [ESLint](https://eslint.org/docs/user-guide/getting-started) 
+- [ ] Configurar [ESLint](https://eslint.org/docs/user-guide/getting-started)
 - [ ] Configurar [Husk](https://www.npmjs.com/package/husky)
-- [ ] Configurar [VSCode](https://editorconfig.org/) 
+- [ ] Configurar [VSCode](https://editorconfig.org/)
 - [ ] Configurar [Nodemon](https://programandosolucoes.dev.br/2021/04/27/configurar-utilizar-nodemon/)
 - [ ] Validando Commits com Husk e [Commitlint](https://suprabhasupi.medium.com/validate-commit-message-using-commitlint-and-husky-b5dad0750f10) para o padrão [convencional](https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional)
 - [ ] Testes Unitários
@@ -28,9 +28,7 @@ Front-end
 - [ ] Clonar o projeto do GitHub para o computador
 - [ ] Inicializar o projeto com [React](https://pt-br.reactjs.org/tutorial/tutorial.html) & [Boostrap](https://getbootstrap.com/docs/5.2/examples/)
 
-
-
 Dev Game
 
-- [ ] Criar uma conta na Unity3d 
-- [ ] Instalar Unity3d 
+- [ ] Criar uma conta na Unity3d
+- [ ] Instalar Unity3d
