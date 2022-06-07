@@ -37,4 +37,4 @@ const User = new dynamoose.Schema(
   },
 );
 
-module.exports = dynamoose.model(`User`, User);
+module.exports = dynamoose.model('User', User);

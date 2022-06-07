@@ -5,6 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "start": "nodemon .",
+    "lint": "yarn  eslint .",
     "prepare": "husky install"
   },
   "repository": {
@@ -27,6 +28,9 @@
     "morgan": "^1.10.0"
   },
   "devDependencies": {
+    "eslint": "^7.32.0 || ^8.2.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.2",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.0",
     "prettier": "2.6.2"
